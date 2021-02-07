@@ -1,2 +1,2 @@
 # ibmtestrepo
-Test Repo
+Test Repository
